@@ -11,6 +11,7 @@ const page = (props) => {
   return (
     <div>
         <Layout children={<RideDetails rideId={props.params.id} />}></Layout>
+        change3
     </div>
   )
 }
