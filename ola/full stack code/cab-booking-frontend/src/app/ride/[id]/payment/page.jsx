@@ -7,6 +7,7 @@ const page = (props) => {
     console.log("ride id --- ",props.params.id)
   return (
     <Layout children={<PaymentPage rideId={props.params.id} />}></Layout>
+    change 2
   )
 }
 
