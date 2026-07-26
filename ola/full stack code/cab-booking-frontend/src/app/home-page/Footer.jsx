@@ -26,6 +26,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-links">
+            change4
             <h3 className="text-lg font-semibold">Customer Support</h3>
             <ul className="mt-4">
               <li><a href="#" className="text-gray-400 hover:text-white">Help Center</a></li>
