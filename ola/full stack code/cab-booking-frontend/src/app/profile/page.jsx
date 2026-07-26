@@ -7,6 +7,7 @@ const page = () => {
   return (
     <div>
         <Layout children={<Profile/>}></Layout>
+        change3
     </div>
   )
 }
