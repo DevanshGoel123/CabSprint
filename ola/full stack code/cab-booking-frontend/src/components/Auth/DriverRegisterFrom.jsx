@@ -12,6 +12,7 @@ const DriverRegisterForm = () => {
   const dispatch = useDispatch();
   const jwt = localStorage.getItem("jwt");
   const { auth } = useSelector((store) => store);
+  change 7
 
   const [formData, setFormData] = useState({
     name: "",
