@@ -7,6 +7,7 @@ const page = () => {
   return (
     <div>
         <Layout children={<Rides/>}/>
+        change 9
     </div>
   )
 }
