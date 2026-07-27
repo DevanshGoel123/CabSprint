@@ -12,6 +12,7 @@ const HomeNavbar = () => {
             <div className="flex items-center mx-5">
               <img
                 src="https://s3-ap-southeast-1.amazonaws.com/ola-prod-website/ola-white-logo.svg"
+                change 6
                 alt="Logo"
                 className="w-10 h-10 mr-2"
               />
